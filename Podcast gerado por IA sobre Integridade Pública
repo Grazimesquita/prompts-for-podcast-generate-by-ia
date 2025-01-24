@@ -1,0 +1,47 @@
+Projeto Podcast Gerado por I.A.s
+
+Projeto com o objetivo de gerar um podcast utilizando ferramentas de IA através de prompts mais trabalhado.
+
+Utilizei uma esteira de prompts para gerar cada etapa do processo criativo.
+💻 Tecnologias utilizadas no projeto
+
+    ChatGPT
+    ElevenLabs
+
+✨ Como foi feito ?
+
+    Roteiro e título gerado via chatgpt
+    Audio gerado pela elevenLabs
+
+📚 Materiais
+
+Material da DIO
+
+🛠️ Instruções de execução
+Faça um roteiro para um podcast sobre a Integridade na Administração Pública com foco na transparência.
+O roteiro deve ter:
+[INTRODUÇÃO]
+[CURIOSIDADE 1]
+[CURIOSIDADE 2]
+[FINALIZAÇÃO]
+[REGRAS]
+•	O podcast deve ser apresentado somente para uma pessoa, no caso aqui chamado Grazi, 
+•	 o podcast deve ser curto. 
+•	A linguagem deve ser clara e mais informal.
+•	No bloco de finalização substitua por uma despedida cool com o final ‘Eu sou a Grazi e este foi o episódio desta semana’.
+[REGRAS NEGATIVAS]
+•	não use termos muito técnicos
+•	Não ultrapasse 5 minutos de duração
+[INTRODUÇÃO] 
+Som de música leve ao fundo 
+Olá, pessoal! Bem-vindos a mais um episódio do nosso podcast! Eu sou a Grazi e hoje vamos falar sobre um tema super importante: a integridade na administração pública, com um foco especial na transparência. Afinal, quando se trata de governar, a clareza e a honestidade são fundamentais, não é mesmo? Então, vamos lá!
+
+[CURIOSIDADE 1] 
+Você sabia que a transparência na administração pública pode ajudar a combater a corrupção? Pois é! Quando as informações sobre gastos e decisões são acessíveis a todos, fica muito mais difícil para qualquer um fazer algo errado. É como se estivéssemos todos de olho, e isso faz com que os gestores pensem duas vezes antes de agir de forma duvidosa. Legal, né?
+
+[CURIOSIDADE 2] 
+E tem mais! Em muitos países, a transparência é até uma exigência legal. Isso significa que os governos precisam publicar dados sobre suas atividades e finanças. Assim, os cidadãos podem acompanhar o que está acontecendo e cobrar melhorias. É um jeito de garantir que a administração pública trabalhe para o bem de todos. E quem não gosta de saber onde o dinheiro público está sendo investido?
+
+[FINALIZAÇÃO] 
+E aí, gostou de saber mais sobre a integridade e a transparência na administração pública? Espero que sim! Lembre-se: a informação é uma ferramenta poderosa e todos nós temos um papel a desempenhar. Então, fique atento e participe! Eu sou a Grazi e este foi o episódio desta semana. Até a próxima! 
+Som de música leve ao fundo
